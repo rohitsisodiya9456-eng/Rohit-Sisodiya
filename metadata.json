@@ -1,0 +1,6 @@
+{
+  "name": "Meri Bachat",
+  "description": "Meri Bachat (मेरी बचत) - Personal Finance & Daily Saving Tracker. Track daily savings, income, expenses, set financial goals, calculate targets, and generate reports in Hindi & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
